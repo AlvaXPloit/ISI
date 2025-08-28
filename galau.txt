@@ -2,13 +2,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Hacked By ./AlvaXPloit</title>
+  <title>Hacked By ./G4l4u3rs.</title>
   <link href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap" rel="stylesheet">
   <meta charset="UTF-8">
   <link rel="icon" href="https://k.top4top.io/p_3220q2euw1.jpg" type="image/jpeg">
   <meta property="og:image" content="https://f.top4top.io/p_32842qvq41.jpg">
-  <meta name="description" content="Hacked By AlvaXPloit">
-  <meta name="keywords" content="Hacked By AlvaXPloit">
+  <meta name="description" content="Hacked By ./G4l4u3rs">
+  <meta name="keywords" content="Hacked By ./G4l4u3rs">
   <meta name="theme-color" content="black">
 </head>
 <body bgcolor="black">
@@ -16,7 +16,7 @@
     <div style="height: auto; min-height: 100%;">
       <div style="text-align: center; width:800px; margin-left: -400px; position: absolute; top: 20%; left: 50%;">
         <i><b>
-          <font size="4" face="Inconsolata" color="white">root@<font color=red>./AlvaXPloit</font>:~# P3MUD4_BR0K3NH0M3.sh<br>
+          <font size="4" face="Inconsolata" color="white">root@<font color=red>./G4l4u3rs</font>:~# P3MUD4_BR0K3NH0M3.sh<br>
           <img src="https://d.top4top.io/p_3284tpx251.jpg" width="550" height="360">
           <br><br>
           </i>
@@ -25,18 +25,7 @@
           <font face=" " size="5" color="white"><br>
 <div class="quote">
   <blockquote>
-    Aku kelingan saben detail bab kowe, saka cara mesemmu, nganti swaramu sing iso ngademke atiku. 
-    Nanging saiki kabeh mung dadi kenangan, kenangan sing saben tak pikir malah ndadekke lara.
-  </blockquote>
-
-  <blockquote>
-    Aku wis nyoba ngelalekke, nanging saben wengi jenengmu tansah ngundang ing pikiranku. 
-    Rasane kaya ngelawan ombak, aku mung siji, nanging ombakmu gedhe banget nganti nggawe aku klelep.
-  </blockquote>
-
-  <blockquote>
-    Wong-wong ngomong wektu bakal ngobati, nanging saben detik sing mlaku malah tambah nyelehke 
-    rasa kangen sing ora iso tak critakake marang sapa wae.
+"Untuk Mempatch System Saja Aku Kesusahan Apalagi Mempatch Hatinya Sungguh Aku Tidak Bisa:)"
   </blockquote>
 </div>
           </font>
