@@ -5,8 +5,8 @@
   <title>Hacked By ./G4l4u3rs.</title>
   <link href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap" rel="stylesheet">
   <meta charset="UTF-8">
-  <link rel="icon" href="https://k.top4top.io/p_3220q2euw1.jpg" type="image/jpeg">
-  <meta property="og:image" content="https://f.top4top.io/p_32842qvq41.jpg">
+  <link rel="icon" href="https://raw.githubusercontent.com/AlvaXPloit/ISI/refs/heads/main/IMG_20250829_022558_647.jpg" type="image/jpeg">
+  <meta property="og:image" content="https://raw.githubusercontent.com/AlvaXPloit/ISI/refs/heads/main/IMG_20250829_022558_647.jpg">
   <meta name="description" content="Hacked By ./G4l4u3rs">
   <meta name="keywords" content="Hacked By ./G4l4u3rs">
   <meta name="theme-color" content="black">
@@ -16,8 +16,8 @@
     <div style="height: auto; min-height: 100%;">
       <div style="text-align: center; width:800px; margin-left: -400px; position: absolute; top: 20%; left: 50%;">
         <i><b>
-          <font size="4" face="Inconsolata" color="white">root@<font color=red>./G4l4u3rs</font>:~# P3MUD4_BR0K3NH0M3.sh<br>
-          <img src="https://d.top4top.io/p_3284tpx251.jpg" width="550" height="360">
+          <font size="4" face="Inconsolata" color="white">root@<font color=red>./G4l4u3rs</font>:~# Traser.sh<br>
+          <img src="https://raw.githubusercontent.com/AlvaXPloit/ISI/refs/heads/main/IMG_20250829_022558_647.jpg" width="550" height="360">
           <br><br>
           </i>
           <font size="7" face="Inconsolata" color="white">Hacked <font color="red">./AlvaXPloit</font>
