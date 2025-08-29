@@ -20,7 +20,7 @@
           <img src="https://raw.githubusercontent.com/AlvaXPloit/ISI/refs/heads/main/IMG_20250829_022558_647.jpg" width="550" height="360">
           <br><br>
           </i>
-          <font size="7" face="Inconsolata" color="white">Hacked <font color="red">./AlvaXPloit</font>
+          <font size="7" face="Inconsolata" color="white">Hacked <font color="red">./G4l4u3rs.</font>
           <i>
           <font face=" " size="5" color="white"><br>
 <div class="quote">
