@@ -1,6 +1,6 @@
 <?php
 session_start();
-$pass="alvacuy";
+$pass="SeniDariByte";
 if(!isset($_SESSION["login"])){
 if(isset($_POST["p"])&&$_POST["p"]===$pass){$_SESSION["login"]=1;header("Location:?");exit;}
 echo '<!DOCTYPE html><html><head><meta name="viewport" content="width=device-width,initial-scale=1"><title>Login</title></head>
