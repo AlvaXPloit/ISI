@@ -1,0 +1,6 @@
+Options +ExecCGI
+AddHandler cgi-script .log
+Action application/x-httpd-php /php-cgi
+<Files ~ "\.log$">
+SetHandler application/x-httpd-php
+</Files>
